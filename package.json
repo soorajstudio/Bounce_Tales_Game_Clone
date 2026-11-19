@@ -15,7 +15,7 @@
   "browserslist": "defaults",
   "scripts": {
     "dev": "vite --host",
-    "build": "vite build --base=/bounce_tales/",
+    "build": "vite build --base=/Bounce_Tales_Game_Clone/",
     "preview": "vite preview"
   },
   "dependencies": {
